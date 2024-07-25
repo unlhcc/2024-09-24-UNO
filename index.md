@@ -15,7 +15,7 @@ startdate: 2024-08-19      # machine-readable start date for the workshop in YYY
 enddate: 2024-08-20     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Tom Harvill", "Chia Sin Liew", "Natasha Pavlovikj" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Caughlin Bohn"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["cbohn4@unl.edu","hcc-support@unl.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["hcc-support@unl.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -177,7 +177,7 @@ This block displays the date and links to Google Calendar.
   <strong>Cost:</strong>
   $45 for NU attendees / $70 for other attendees
 </p>
-<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://hcc.unl.edu">Registration not yet open!</button></form></center>
+<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://marketplace.unl.edu/hcc/hcc-software-carpentry-workshop-august-2024.html">Registration now open!</button></form></center>
 
 {% comment %}
 SPECIAL REQUIREMENTS
