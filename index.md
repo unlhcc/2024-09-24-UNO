@@ -3,17 +3,17 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "University of Nebraska-Lincoln"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Great Plains Room B, Nebraska East Union, 1705 Arbor Dr, Lincoln, NE 68503"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "University of Nebraska-Omaha"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "306 Council Room, UNO Milo Bail Student Center, 6203 S University Dr Rd N, Omaha, NE 68132."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "US"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "40.830257283261965"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-96.66733305886099"      # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "August 19-20, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+latitude: "41.258735209180664"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-96.00859071342238"      # decimal longitude of the workshop venue (use https://www.latlong.net)
+humandate: "September 24-25, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30 am - 5:00 pm CST (1:30 pm - 10:00 pm UTC) "    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2024-08-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2024-08-20     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Tom Harvill", "Chia Sin Liew", "Natasha Pavlovikj" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2024-09-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2024-09-25     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Chia Sin Liew", "Natasha Pavlovikj"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Caughlin Bohn"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hcc-support@unl.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -175,9 +175,9 @@ This block displays the date and links to Google Calendar.
 
 <p id="cost">
   <strong>Cost:</strong>
-  $45 for NU attendees / $70 for other attendees
+  $25 for NU attendees / $50 for other attendees
 </p>
-<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://marketplace.unl.edu/hcc/hcc-software-carpentry-workshop-august-2024.html">Registration now open!</button></form></center>
+<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://marketplace.unl.edu/hcc/hcc-software-carpentry-workshop-september-2024.html">Registration now open!</button></form></center>
 
 {% comment %}
 SPECIAL REQUIREMENTS
